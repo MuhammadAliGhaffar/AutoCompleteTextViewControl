@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoCompleteTextViewControl</string>
+    <string name="example_autocompletetextview">Example showing AutoCompleteTextView</string>
+</resources>
